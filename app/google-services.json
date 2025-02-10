@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "750998643686",
+    "project_id": "mlscqr",
+    "storage_bucket": "mlscqr.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750998643686:android:9221642f8e399e11296c27",
+        "android_client_info": {
+          "package_name": "com.example.mlscqr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATB9hvCaL1KR9_DN78irleSuPJxTSt_P4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
